@@ -1,10 +1,9 @@
-name: default
+name: imm-mk-env
 channels:
   - conda-forge
 dependencies:
   - astor=0.8.1
   - asttokens=2.4.1
-  - attr=2.5.1
   - attrs=24.2.0
   - beautifulsoup4=4.12.3
   - boto3=1.35.63
